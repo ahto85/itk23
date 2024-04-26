@@ -5,6 +5,6 @@
   <body>
     <h1>Meie projekti pealeht<h1>
       <p>See leht arvestab ka muudatustega</p>
-      <img src="http://shorturl.at/eBFN2"
+      <img src="https://www.dreamgrow.ee/wp-content/uploads/2017/09/tasuta-pildid-fotod-videod-911x647.jpg"
   </body>
 </html>
